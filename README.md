@@ -15,7 +15,7 @@ I built an app that allows users to receive random affirmation messages or mantr
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
-[image](assets/self-care-app.png)
+![image](assets/self-care-app.png)
 
 ### Context:
 [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
