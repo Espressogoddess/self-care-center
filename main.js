@@ -87,11 +87,11 @@ function showFavoriteMessages() {
     mantraMessage.innerText = '';
     if (favoriteAffirmations.length) {
         showElement(affirmHeader);
-        showFavoriteMessages(affirmMessage, favoriteAffirmations);
+        renderMessages(affirmMessage, favoriteAffirmations);
     }
     if (favoriteMantras.length) {
         showElement(mantraHeader);
-        showFavoriteMessages(mantraMessage, favoriteMantras);
+        renderMessages(mantraMessage, favoriteMantras);
     }
 }
 
@@ -107,7 +107,7 @@ function findMessage(event) {
     return event.target.dataset.msgName;
 }
 
-function showFavoriteMessages(element, favoriteMessages) {
+function renderMessages(element, favoriteMessages) {
     for (var i = 0; i < favoriteMessages.length; i++) {
         element.innerHTML += `
         <div class='fav-msg-div'>
