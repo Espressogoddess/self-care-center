@@ -15,19 +15,28 @@ I built an app that allows users to receive random affirmation messages or mantr
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
+[image](assets/self-care-app.png)
 
 ### Context:
 [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
+This project was completed in ~12 hours during my third week as a Turing student.
 
 ### Contributors:
 [//]: <> (Who worked on this application? Link to their GitHubs.)
+Amber Shipley: github.com/espressoGoddess
 
 ### Learning Goals:
 [//]: <> (What were the learning goals of this project? What tech did you work with?)
+- Gain knowledge and experience building an app from scratch utilizing HTML, CSS, and JavaScript
+- Know how to utilize HTML and CSS to match a provided comp
+- Understand how to listen to and respond to user events
+- Individualize my programming skill set
 
 ### Wins + Challenges:
 [//]: <> (What are 2-3 wins you have from this project? What were some challenges you faced - and how did you get over them?)
-- alignment was challenging and overcame with trial and error
-- win: figuring out view logic for receive message (depending on affirm or mantra)
-- win: utilizing pseudocode and a feature branch and only implementing changes that aligned with that branch (which meant saving some features/changes for later while keeping the focus)
-- challenge wrapping my head around how to utilize the data model as the source of truth, i compared and contrasted various approaches or solutions and analyzed them to figure out if it was using the DOM or data model and it began to make sense.
+- It was challenging to effectively use CSS to alignment elements on the page to match the comp. I overcame this challenge with trial and error.
+- It was challenging to wrap my head around the way in which to utilize the data model as the source of truth and using that to update the DOM. I compared and contrasted various approaches/solutions and analyzed them to figure out if it was using the DOM or data model and it began to make sense.
+- A major win was figuring out the view logic for showing the message depending upon if affirmation or mantra was selected.
+- A win was utilizing pseudocode to help with logic
+- A win was also utilizing a feature branch that only implemented changes that aligned with that branch (which meant saving some features/changes for later while keeping the focus on the respective branch).
+
