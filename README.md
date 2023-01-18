@@ -1,5 +1,7 @@
 # Self-Care Center 
 
+[Self-care-center](https://espressogoddess.github.io/self-care-center/)
+
 ## Abstract:
 I built an app that allows users to receive random affirmation messages or mantra messages, depending upon which message type was chosen. Users can save their favorite messages and navigate to a favorited messages page to view them. Users can delete any of messages on the favorites page by clicking a delete button. 
 
@@ -9,9 +11,6 @@ I built an app that allows users to receive random affirmation messages or mantr
 1. Run `git clone git@github.com:Espressogoddess/self-care-source.git`.
 1. Run `cd self-care-center` to move into the project directory.
 1. Run `open index.html` in terminal to launch the application in the web browser.
-
-### Or
-Click this [deployable link](https://espressogoddess.github.io/self-care-center/)
 
 
 ## Preview of App:
